@@ -38,9 +38,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ![Screenshot](/images/home.png)
 
-<h3 align="center">Após clicar em gerar </h3>
+<h3 align="center">Após clicar em Gerar QRCode </h3>
 
 ![Screenshot](/images/qrcode.png)
 
-<p align="center"> Depois, é só aproximar a câmera do seu celular que você será redirecionado ao site desejado! </p>
+<p align="center"> Depois, é só aproximar a câmera do seu celular que você será redirecionado ao site desejado! 📱 </p>
 
